@@ -6,7 +6,7 @@
 
     >  "Accuracy is not Enough: Building Trustworthy AI with Conformal Prediction".
 
-**Talk:** https://2025.pycon.de/talks/UDDTBS/
+**Talk:** https://2025.pycon.de/talks/UDDTBS/  
 **Author:** Chris Aivazidis
 
 ## Repository Structure
