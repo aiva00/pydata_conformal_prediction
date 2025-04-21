@@ -1,0 +1,1 @@
+This implementation of venn-abers calibration is by Carl McBride Ellis as it is evident in the notebook. You can find the link to the original notebook here: https://www.kaggle.com/code/carlmcbrideellis/classifier-calibration-using-venn-abers
